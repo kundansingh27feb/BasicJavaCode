@@ -3,7 +3,7 @@
 <br>
 <hr>
 <br>
-<h3> Team Gurukul<h3>
+<h3> Team<h3>
 <h3> thegurukulsiksha@gmail.com<h3>
     <h3>Thanks<h3>
 
